@@ -29,6 +29,8 @@ html{
 /* all similar content styling codes */
 section{
     padding: 100px 0;
+    scroll-margin-top: 70px; 
+    /* padding-top: 70px; */
 }
 .max-width{
     max-width: 1300px;
